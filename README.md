@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MirzaG/MirzaG/main/card.svg" alt="MirzaG terminal card" width="900">
+  <img src="https://raw.githubusercontent.com/MirzaG/MirzaG/main/card.svg" alt="MirzaG terminal card" width="800">
 </p>
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=MirzaG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
@@ -13,6 +12,6 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mirza-usman-tahir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mirzausman501@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/mirza-usman-tahir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mirzausman501@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
